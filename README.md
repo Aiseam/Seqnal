@@ -7,13 +7,16 @@ C++ Interface (LUI): Fast, efficient, and minimal.
 <img width="980" height="485" alt="Background3" src="https://github.com/user-attachments/assets/799f368c-2a95-4980-8bb1-66e23c0044af" />
 Tracker-Style Sample System: Take your project anywhere. The entire structure and samples are bundled and compiled right inside the project file, with no need to download or drag external audio folders around.
 Synthesis & Effects Engine:
+
 Oscillators, filters, and ADSR envelopes.
 Delay, Chorus, Reverb, Amplifiers, LFO, and Sidechain.
 Built-in Arpeggiator.
+
 Sequencer: Full control over patterns, BPM, swing, and melody creation straight from the command line.
 Complete Control: Quick hotkeys, buffer size adjustment, channel muting, custom themes, and opacity settings.
+
 Exporting: Render your tracks directly to .wav.
 Documentation: Includes a detailed manual to guide you through every command without the fluff.
 <img width="972" height="561" alt="Background2" src="https://github.com/user-attachments/assets/17b0d09f-f0d0-43a1-bad2-2d94ea931c1e" />
 
-[![Watch Seqnal DAW LUI - Oficial Video](https://img.youtube.com/vi/5FlB1GbUcp0/maxresdefault.jpg)](https://www.youtube.com/watch?v=5FlB1GbUcp0)
+[![Seqnal DAW LUI - Oficial Video](https://img.youtube.com/vi/5FlB1GbUcp0/maxresdefault.jpg)](https://www.youtube.com/watch?v=5FlB1GbUcp0)
