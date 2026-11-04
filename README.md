@@ -16,4 +16,4 @@ Exporting: Render your tracks directly to .wav.
 Documentation: Includes a detailed manual to guide you through every command without the fluff.
 <img width="972" height="561" alt="Background2" src="https://github.com/user-attachments/assets/17b0d09f-f0d0-43a1-bad2-2d94ea931c1e" />
 
-Review: https://youtu.be/5FlB1GbUcp0?si=ezv3NBeWpp9c19De
+[![Watch Seqnal DAW LUI - Oficial Video](https://img.youtube.com/vi/5FlB1GbUcp0/maxresdefault.jpg)](https://www.youtube.com/watch?v=5FlB1GbUcp0)
